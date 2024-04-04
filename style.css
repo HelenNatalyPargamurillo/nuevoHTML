@@ -1,1 +1,42 @@
-
+.encabezado{
+    margin-top: 43px;
+    width: 1400px;
+    height: 44px;
+    background-color: #d5ff43;
+ }
+ .logo{
+   margin-left: 43px;
+ }
+  
+ .comprar_tarjeta{
+    position: absolute;
+    font-family: "opensans_regular";
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    margin-left: 400px;
+  
+ }
+ 
+ .saldo{
+    position: absolute;
+    font-family: "opensans_regular";
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    margin-left:633px;
+ }
+ 
+ .lupa{
+    margin-top: 4
+    px;
+    position: absolute;
+    margin-left: 784.7px;
+ }
+ 
+ .carrito{
+    margin-top: 8;
+    position: absolute;
+    margin-left: 984.67px;
+ 
+ }
