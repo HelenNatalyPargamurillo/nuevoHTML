@@ -83,3 +83,13 @@ html{
    margin-left: 984.67px;
 
 }
+
+.barraN{
+   position: absolute;
+   top: 200px;
+   left: 1390px;
+   width: 110.5px;
+   height: 800.1px;
+   background: black;
+   border-radius: 0px 8px 8px 0px;
+}
