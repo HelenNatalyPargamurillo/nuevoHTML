@@ -93,3 +93,13 @@ html{
    background: black;
    border-radius: 0px 8px 8px 0px;
 }
+
+.comprar{
+   display: block;
+   top: 917px;
+   left: 1205px;
+   width: 111px;
+   height: 36px;
+   background: black ;
+   opacity: 1;
+   } 
